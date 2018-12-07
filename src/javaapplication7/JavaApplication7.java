@@ -18,8 +18,8 @@ public class JavaApplication7 {
         // TODO code application logic here
         
         System.out.println("asdasdo");
-        //hice otra cosa
         
+        //esto no estaba en la tra version
     }
     
 }
